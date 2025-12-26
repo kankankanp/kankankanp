@@ -16,3 +16,13 @@
 - **Issue**: [#236](https://github.com/go-gorm/clickhouse/issues/236)
 - **Pull Request**: [#237](https://github.com/go-gorm/clickhouse/pull/237)
 
+## ✍️ Socials
+
+<p align="left">
+  <a href="https://zenn.dev/kisaragi71" target="_blank">
+    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
+  </a>
+  <a href="https://www.wantedly.com/id/southvilla" target="_blank">
+    <img src="https://img.shields.io/badge/Wantedly-00A4BB?style=for-the-badge&logo=wantedly&logoColor=white" alt="Wantedly" />
+  </a>
+</p>
