@@ -2,12 +2,9 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,js,ts,py,nodejs,nestjs,react,nextjs,aws,azure,terraform,postgres,docker,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=go,js,ts,py,nodejs,nestjs,react,nextjs,aws,azure,terraform,postgres,docker,git&perline=5" />
   </a>
 </p>
-
-#### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🤝 OSS Contributions
 
